@@ -13,7 +13,7 @@ int my_strlen(char *s)
 
 int main(void)
 {
-   int i;
+   int i,j;
    char *s[] = 
    {
       "Git tutorials",
